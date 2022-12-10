@@ -1,1 +1,1 @@
-# epidemmy-modeling
+# epidemic-modeling
